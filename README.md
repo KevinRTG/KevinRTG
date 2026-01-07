@@ -59,8 +59,10 @@
 
 ###
 
-<div align="center">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevinRTG&theme=react-dark)](https://github.com/kevinRTG/github-readme-activity-graph)
+
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+</div> -->
 
 ###
